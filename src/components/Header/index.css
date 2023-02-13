@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+nav {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 40px;
+  background-color: lightcyan;
+  align-items: center;
+  padding: 10px;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  width: 200px;
+  align-items: center;
+}
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+.nav {
+  margin-top: 0px;
+}
